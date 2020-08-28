@@ -1,0 +1,15 @@
+export const initialForm = {
+  patientType: 1,
+  insuranceAddress: '',
+  insuranceFromDate: null,
+  insuranceToDate: null,
+  insuranceNumber: '',
+  insurancePercent: '',
+  regAtHospitalId: null,
+  patientFromHospitalId: null,
+  reason: '',
+  continuity5YearDate: null,
+  insuranceErrorCode: '',
+  continuity5Year: false,
+  notCopayment: false,
+};
